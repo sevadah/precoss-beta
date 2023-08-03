@@ -1,12 +1,6 @@
 # precoss-beta
-Matlab code for Precoss-beta model, which was designed to explore the functional role of cortical beta oscillations during hierarchical speech processing.
-
-# Description and content
-
-## Description
 
 The repository contains the custom Matlab script for the manuscript titled "Rhythmic modulation of prediction errors: a top-down gating role for the beta-range in speech processing".
-
 
 contact: Sevada Hovsepyan (sevada.hovsepyan@gmail.com)
 
